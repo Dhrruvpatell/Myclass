@@ -1,0 +1,26 @@
+/* Name: [Dhruv patel], Student Number: [8959436] */
+body {
+    width: 80%; 
+    max-width: 1000px;
+    margin: 0 auto;
+    font: 16px Arial, sans-serif; 
+    padding: 20px;
+}
+
+
+{
+    border: 2px solid #ccc; /* Add border using border shorthand */
+    border-radius: 5px; /* Add rounded corners to the border */
+    padding: 10px; /* Padding */
+    margin: 20px 0; /* Margins */
+  }
+  
+  h1, h2 {
+    color: #f00; /* Change the font color */
+    font-variant: small-caps; /* Set the font-variant as small-caps */
+  }
+  
+  footer p {
+    font-size: 0.9em; /* Reduce the font size */
+    color: #333; /* Change the color */
+  }
